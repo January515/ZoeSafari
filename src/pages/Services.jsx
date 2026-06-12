@@ -76,6 +76,7 @@ const Services = () => {
             title: "Serengeti Safari",
             focus: "Big Five Safaris",
             type: "Wildlife safari",
+            price: "$1,944 per person",
             images: [new3, new1, new6, mesha, up3],
             description: "Witness the Great Migration and spot the Big Five in the endless plains of Serengeti.",
             highlights: ["Great Migration", "Big Five", "Hot Air Balloon"],
