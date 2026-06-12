@@ -41,6 +41,7 @@ const Services = () => {
             title: "Northern Tanzania Safari Escape",
             focus: "Northern Safaris",
             type: "Wildlife safari",
+            price: "$1,944 per person",
             images: [img5, img3, img1, img11, img12, up1, up2],
             description: "Experience the best of Northern Tanzania's wildlife including Serengeti and Ngorongoro Crater.",
             highlights: ["Serengeti Migration", "Ngorongoro Crater", "Lake Manyara"],
